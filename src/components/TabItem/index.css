@@ -12,3 +12,8 @@
     border: none;
     cursor: pointer;
 }
+
+.active-tab-btn{
+    border-bottom: 2px solid #0b69ff;
+    color: #3e4c59;
+}
