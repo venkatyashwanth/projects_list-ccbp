@@ -1,0 +1,45 @@
+.nav-header{
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1110px;
+}
+.nav-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex: 1;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.website-logo {
+    font-size: 20px;
+    width: 45px;
+    height: 45px;
+    border-radius: 12px;
+    color: #1d4ed8;
+    text-align: center;
+    background-color: #dbeafe;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    flex: 1;
+}
+
+.nav-menu li {
+    align-self: center;
+}
+
+.social-network-img {
+    width: 30px;
+    margin-left: 15px;
+}
